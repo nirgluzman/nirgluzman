@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- Passionate software developer with expertise in building full-stack web and mobile applications.
+- Experienced in cloud-based development and serverless architecture.
+- Eager learner with a proven track record of tackling complex challenges through code.
+- Intrigued by AI's potential to unlock new levels of app engagement through personalized experiences and intelligent features.
+
+💬 Let's chat about: Cloud architecture best practices, system design challenges, or bringing your next big idea to life.
+
 <!--
 **nirgluzman/nirgluzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
